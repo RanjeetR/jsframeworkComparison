@@ -7,7 +7,7 @@ following are the most popular Javascript Frameworks.
 - Vue.js
 -  Aurelia.js
 
-Choosing framework could be a tedious task, it should be based on the project requirement and project structure, for example framework could be good for DOM manipulation or efficient UI rendering or some framework could be good at data handling and data manipulation. So depending upon nature of work Javascript Framework should be choosen.
+Choosing framework could be a tedious task, it should be based on the project requirement and project structure, for example framework could be good for DOM manipulation or efficient UI rendering or some framework could be good at data handling and data manipulation. So depending upon nature of work Javascript Framework should be selected.
 We will be discussing above mentioned frameworks on their nature and characteristics.
 # I) Angular js 1.x
 Angular 1.x is the baby of google but become Daddy of javascript frameworks.
@@ -93,6 +93,16 @@ Rob Eisenberg is moved to Microsoft.( Might Aurelia get adapted by MS )
 |      App Architecture  	|  None, combined with Flux 	|  MVC 	|  Component-based 	|
 |   Data Binding     	|  Uni-directional 	|  Bi-directional	 	|  Bi-directional	 	|
 |  DOM      	|  Virtual DOM 	|   Regular DOM	|   Regular DOM	|
+
+
+- Useful links
+http://www.hexacta.com/2017/07/24/react-vs-angular2-which-technology-should-we-use/
+http://blog.techmagic.co/angular-2-vs-react-what-to-chose-in-2017/
+https://dzone.com/articles/difference-between-react-and-angular-2-does-angula
+https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc
+https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted
+
+
 
 
 ```sh
